@@ -86,7 +86,7 @@ Different platforms. Real problems to solve.
 <!-- STATS:START -->
 | Public repositories | Original repositories | Unarchived originals | Stars on originals |
 | :---: | :---: | :---: | :---: |
-| 22 | 20 | 18 | 3 |
+| 23 | 21 | 19 | 3 |
 
 <details>
 <summary>Languages across my original public repositories</summary>
@@ -96,9 +96,9 @@ Different platforms. Real problems to solve.
 | JavaScript | 4 |
 | Python | 4 |
 | Java | 3 |
+| TypeScript | 3 |
 | C# | 2 |
 | Swift | 2 |
-| TypeScript | 2 |
 | C | 1 |
 | HTML | 1 |
 | Kotlin | 1 |
@@ -107,7 +107,7 @@ GitHub's primary language per repository, including archived originals. Forks an
 
 </details>
 
-<sub>Updated 2026-09-16 (UTC) from the public GitHub API. Refreshed daily by [GitHub Actions](https://github.com/mrzeappleGit/mrzeappleGit/actions/workflows/stats.yml). Private work is not included.</sub>
+<sub>Updated 2026-09-17 (UTC) from the public GitHub API. Refreshed daily by [GitHub Actions](https://github.com/mrzeappleGit/mrzeappleGit/actions/workflows/stats.yml). Private work is not included.</sub>
 <!-- STATS:END -->
 
 [Explore my contribution activity →](https://github.com/mrzeappleGit?tab=overview)
